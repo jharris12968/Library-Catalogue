@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16- Library", "16- Library\16- Library.csproj", "{CAFFAEBB-AA86-474B-A063-A99479F36412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFFAEBB-AA86-474B-A063-A99479F36412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFFAEBB-AA86-474B-A063-A99479F36412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFFAEBB-AA86-474B-A063-A99479F36412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFFAEBB-AA86-474B-A063-A99479F36412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C143EC1C-1309-4A06-A0B8-920B84289937}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/jh0889132
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 16-\u0020Library\\16-\u0020Library.csproj
+		SccProjectName1 = 16-\u0020Library
+		SccLocalPath1 = 16-\u0020Library
+	EndGlobalSection
+EndGlobal
